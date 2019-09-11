@@ -18,3 +18,8 @@
 - gitter chat
 - license
 - etc.
+
+
+## KiCad Euroarack Resources
+
+http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm
